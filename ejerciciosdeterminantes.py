@@ -114,4 +114,4 @@ print("P9 A^T:", P9.T.det())
 # CONCLUSIÓN
 # =========================
 print("\n===== CONCLUSIÓN =====")
-print("Todos los resultados coinciden con los cálos manuales.")
+print("Todos los resultados coinciden con los hechos a  mano.")
